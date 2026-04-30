@@ -5,7 +5,7 @@
     "clickUrl": "https://www.google.com/"
   },
   "exitPanel": {
-    "show": true,
+    "show": false,
     "clickUrl": "https://www.google.com/"
   }
 }
