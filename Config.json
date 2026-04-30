@@ -1,0 +1,11 @@
+{
+  "moreGames": {
+    "show": true,
+    "imageUrl": "https://your-site.com/moregames.png",
+    "clickUrl": "https://play.google.com/store/apps/dev?id=XXXX"
+  },
+  "exitPanel": {
+    "show": true,
+    "clickUrl": "https://play.google.com/store/apps/details?id=com.your.game"
+  }
+}
