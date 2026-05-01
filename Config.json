@@ -1,11 +1,11 @@
 {
   "moreGames": {
-    "show": false,
+    "show": true,
     "imageUrl": "https://kipaboogames.github.io/MyVoiceZoo_GameConfig_version1/moregames.png",
     "clickUrl": "https://www.google.com/"
   },
   "exitPanel": {
-    "show": true,
+    "show": false,
     "clickUrl": "https://www.google.com/"
   }
 }
