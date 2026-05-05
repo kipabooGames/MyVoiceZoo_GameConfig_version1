@@ -1,6 +1,6 @@
 {
   "moreGames": {
-    "show": true,
+    "show": false,
     "imageUrl": "https://kipaboogames.github.io/MyVoiceZoo_GameConfig_version1/moregames.png",
     "clickUrl": "https://play.google.com/store/apps/details?id=com.KipabooStudio.EscapeTsunamiForBrainrots"
   },
